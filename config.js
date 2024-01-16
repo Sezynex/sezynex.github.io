@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Steam',
+			icon: 'gamepad-2',
+			link: 'https://steamcommunity.com/id/sezynex/',
 		},
 	],
 
