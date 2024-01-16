@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'https://api.openweathermap.org/data/2.5/weather?id=524901&lang=fr&appid=5a3ae9eb5a361e6941474774b0da1e69', // Write here your API Key
+	weatherKey: 'https://api.openweathermap.org/data/2.5/weather?q=London&appid=5a3ae9eb5a361e6941474774b0da1e69', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
