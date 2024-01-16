@@ -135,16 +135,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'youtube',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Daha sonra izle',
+					link: 'https://www.youtube.com/playlist?list=WL',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Npc Playlisti',
+					link: 'https://www.youtube.com/playlist?list=PLu-wt498QPV05MxAELFHRXKUvruDh3BQt',
 				},
 				{
 					name: 'Oldies',
