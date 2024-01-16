@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'OBS',
-					link: 'https:/obs.gedik.edu.tr',
+					link: 'https://obs.gedik.edu.tr',
 				},
 				{
 					name: 'Whatsapp',
