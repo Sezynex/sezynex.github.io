@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://github.com/Sezynex',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'LMS',
+					link: 'https://lms.gedik.edu.tr',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'OBS',
+					link: 'https:/obs.gedik.edu.tr',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Whatsapp',
+					link: 'https://web.whatsapp.com',
 				},
 			],
 		},
