@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Twitch',
-			icon: 'trello',
+			icon: 'twitch',
 			link: 'https://twitch.tv',
 		},
 		{
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
 			name: 'Steam',
 			icon: 'gamepad-2',
 			link: 'https://steamcommunity.com/id/sezynex/',
+		},
+		{
+			id: '6',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 	],
 
