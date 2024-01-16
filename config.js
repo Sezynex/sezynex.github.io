@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 	],
@@ -147,22 +147,22 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PLu-wt498QPV05MxAELFHRXKUvruDh3BQt',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Geçmiş',
+					link: 'https://www.youtube.com/feed/history',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Kanal',
+					link: 'https://www.youtube.com/@sezynex',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'computer',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'GitHub',
+					link: 'https://github.com/Sezynex',
 				},
 				{
 					name: 'Dribbble',
