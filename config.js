@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=WL',
 				},
 				{
-					name: 'Npc Playlisti',
+					name: 'NPC',
 					link: 'https://www.youtube.com/playlist?list=PLu-wt498QPV05MxAELFHRXKUvruDh3BQt',
 				},
 				{
