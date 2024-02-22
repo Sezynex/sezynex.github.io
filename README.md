@@ -1,12 +1,3 @@
-AM
-GÖT
-SİK
-ÇÜK
-YARRAK
-TAŞŞAK
-31
-BAŞINI YE
-
 
 
 ![image](assets/img/header.png)
