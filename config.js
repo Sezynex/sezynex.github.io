@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'LMS',
-					link: 'https://lms.gedik.edu.tr',
+					link: 'https://ue.gedik.edu.tr',
 				},
 				{
 					name: 'OBS',
