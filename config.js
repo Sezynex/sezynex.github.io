@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Faceit',
+			icon: 'swords',
+			link: 'https://faceit.com',
 		},
 		{
 			id: '5',
