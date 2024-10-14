@@ -6,7 +6,7 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css?family=Audiowide'); /* Font Import */
+@import url('https://fonts.googleapis.com/css?family=Audiowide&effect=anaglyph'); /* Font Import */
 
 :root {
   /* Font Size */
@@ -23,7 +23,7 @@
   /* Light Colors  */
   --accent: #cccccc; /* Hover color */
   --background: #f5f5f5; /* Background color */
-  --cards: #5e5e947a; /* Cards color */
+  --cards: #89f702; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.png); /* Image URL */
@@ -37,7 +37,7 @@
   /* Dark Colors  */
   --accent: #fcfcfcb7; /* Hover color */
   --background: #2b2a33; /* Background color */
-  --cards: #07070969; /* Cards color */
+  --cards: #89f702; /* Cards color */
 
   /* Fonts Color */
   --fg: #89f702; /* Foreground color */
