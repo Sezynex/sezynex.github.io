@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: '',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Günaydın!',
 	greetingAfternoon: 'İyi günler.',
 	greetingEvening: 'İyi akşamlar',
-	greetingNight: 'Yat artık!',
+	greetingNight: 'İyi geceler',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
